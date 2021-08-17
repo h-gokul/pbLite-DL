@@ -1,11 +1,11 @@
-For Phase 1:
+# For Phase 1- PB Lite Edge Detection:
 
 To find edges on image number 7,
 ```
 python3 Wrapper.py --ImageName 7.jpg
 ```
 
-For Phase 2,
+# For Phase 2- DeepLearning Architectures,
 
 For the Simple First Neural network, run:
 Training:
